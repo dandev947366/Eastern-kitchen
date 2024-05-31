@@ -20,6 +20,21 @@ Our website, Eastern Kitchen Restaurant, offers both online ordering and table r
 ## 📑 Design
 [Figma](https://www.figma.com/design/yrrBbfG2XAHDo1ifrMM7uX/Untitled?node-id=0-1&t=J4spNrDj6jj9g6og-1)
 
+## Home Page Design
+
+![Home Page Design](https://github.com/dandev947366/Eastern-kitchen/blob/main/design/home.png)
+
+## Menu Design
+
+![Menu Design](https://github.com/dandev947366/Eastern-kitchen/blob/main/design/menu.png)
+
+## About Page Design
+
+![About Page Design](https://github.com/dandev947366/Eastern-kitchen/blob/main/design/about.png)
+
+## Contact Page Design
+
+![Contact Page Design](https://github.com/dandev947366/Eastern-kitchen/blob/main/design/contact.png)
 ---
 
 ## 📑 Features
