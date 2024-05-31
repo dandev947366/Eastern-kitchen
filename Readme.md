@@ -15,6 +15,10 @@ Our website, Eastern Kitchen Restaurant, offers both online ordering and table r
 - [Database Tables](#database-tables)
 - [Created Forms](#created-forms)
 - [Created Tables](#created-tables)
+---
+
+## 📑 Design
+[Figma](https://www.figma.com/design/yrrBbfG2XAHDo1ifrMM7uX/Untitled?node-id=0-1&t=J4spNrDj6jj9g6og-1)
 
 ---
 
